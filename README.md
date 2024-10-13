@@ -1,4 +1,9 @@
-# IBM Data Analyst Capstone Project
+<div align="center">
+If my project has helped you, don't forget to click on the “ ⭐Star” button !
+</div>
+<br>
+
+# IBM Data Analyst Capstone Project (2024)
 Final project for the IBM Data Analyst Professional Certificate.
 
 ### Project Overview
