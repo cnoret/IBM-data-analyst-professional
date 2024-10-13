@@ -1,7 +1,6 @@
 <div align="center">
 <h3>If my project has helped you, don't forget to click on the “ ⭐Star” button !</h3>
 </div>
-<br>
 
 # IBM Data Analyst Capstone Project (2024)
 Final project for the IBM Data Analyst Professional Certificate.
