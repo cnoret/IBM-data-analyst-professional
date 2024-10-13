@@ -1,5 +1,5 @@
 <div align="center">
-If my project has helped you, don't forget to click on the “ ⭐Star” button !
+<h3>If my project has helped you, don't forget to click on the “ ⭐Star” button !</h3>
 </div>
 <br>
 
