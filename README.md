@@ -2,7 +2,7 @@
  [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/cnoret?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/cnoret) 
 
-# IBM Data Analyst Professional Certificate (2024) <img src="/certificate/IBM-Banner.png" align="right" width="120" />
+# IBM Data Analyst Professional (2024) <img src="/certificate/IBM-Banner.png" align="right" width="120" />
 
 ## 📍 About
 Gain the **job-ready skills** for an entry-level data analyst role through this eight-course Professional Certificate from IBM and position yourself competitively in the thriving job market for data analysts, which will see a 20% growth until 2028 (U.S. Bureau of Labor Statistics).
